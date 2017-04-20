@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="adder.h" path="F:\test\adder\adder.h"/>
+    <originFiles name="adder.c" path="F:\test\adder\adder.c"/>
+  </source>
+  <testbench>
+    <originFiles name="main.c" path="F:\test\adder\main.c"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
